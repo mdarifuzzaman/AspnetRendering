@@ -1,0 +1,12 @@
+﻿@model PromoComponentModel
+<section id="hero">
+    <div class="container flex flex-col-reverse mx-auto p-6 lg:flex-row lg:mb-0">
+        <div class="flex flex-col space-y-10 lg:mt-16 lg:w-1/2">
+            <h1 class="text-3xl font-semibold text-center lg:text-6xl lg:text-left"> <sc-text asp-for="Title"></sc-text> </h1><p class="max-w-md mx-auto text-lg text-center text-gray-400 lg:text-2xl lg:text-left lg:mt-0 lg:mx-0">
+                <sc-text asp-for="BodyText"></sc-text>
+            </p><div class="flex items-center justify-center w-full space-x-4 lg:justify-start"><div class="flex flex-col items-center justify-center"><a href="#" class="p-4 text-sm font-semibold text-black bg-gray-300 rounded shadow-md border-2 border-gray-300 md:text-base hover:bg-white hover:text-gray-600">Get It On Firefox</a></div><div class="flex flex-col items-center justify-center"><a href="#" class="p-4 text-sm font-semibold text-white bg-softBlue rounded shadow-md border-2 border-softBlue md:text-base hover:bg-white hover:text-softBlue">Get It On Chrome</a></div></div><div><input type="email" placeholder="enter your email for registration"><button class="ml-3 flex flex-col items-center justify-center">Signup for newsletter</button></div>
+        </div><div class="relative mx-auto lg:mx-0 lg:mb-0 lg:w-1/2"><div class="bg-hero"></div>
+            <sc-img asp-for="FeaturedImage" />
+    </div>
+    </div>
+</section>

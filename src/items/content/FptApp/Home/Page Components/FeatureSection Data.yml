@@ -1,0 +1,41 @@
+﻿---
+ID: "c0e0c2bb-1faa-420a-aebe-18ededab89e3"
+Parent: "2b32cdd7-6c2d-5791-9e9e-e5e0d604f856"
+Template: "4829d68b-b305-4a6c-ad76-ec8b4826907a"
+Path: /sitecore/content/FptApp/home/Page Components/FeatureSection Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240404T053928Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "78c4c161-36b8-47d3-974d-41005c3ec0f2"
+      Hint: Description
+      Value: |
+        <h1>This is a description </h1>
+        <p>
+        Some summary text here
+        </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c99ceac0-51d0-46d3-8d16-a2ff614068bb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240404T054014Z
+    - ID: "f64a3798-0132-4e13-9560-0f6ff5d19a1a"
+      Hint: Heading
+      Value: This is a feature heading

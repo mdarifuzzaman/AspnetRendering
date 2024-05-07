@@ -1,0 +1,29 @@
+﻿---
+ID: "76914faa-5cd0-41ff-9f47-5f20c93575cf"
+Parent: "2b32cdd7-6c2d-5791-9e9e-e5e0d604f856"
+Template: "adc530dd-4a0a-4a99-b3df-9a5684111e1f"
+Path: /sitecore/content/FptApp/home/Page Components/New DownloadSection
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240404T034304Z
+    - ID: "760e0d64-926a-4184-b6e4-46ce57ac9e10"
+      Hint: Heading
+      Value: This is a download section
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9a3651f-13bf-4447-811c-35c3e0b381ad"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240404T034403Z

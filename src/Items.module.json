@@ -1,0 +1,36 @@
+{
+    "namespace": "Items",
+    "items" : {
+        "includes": [
+            {
+                "name": "api-key",
+                "path": "/sitecore/system/Settings/Services/API Keys/FptApp",
+                "scope": "singleItem"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/FptApp"
+            },
+            {
+                "name": "layouts",
+                "path": "/sitecore/layout/Layouts/Project/FptApp"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/FptApp"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/FptApp"
+            },
+            {
+                "name": "content",
+                "path": "/sitecore/content/FptApp"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/FptApp"
+            }
+        ]
+    }
+}

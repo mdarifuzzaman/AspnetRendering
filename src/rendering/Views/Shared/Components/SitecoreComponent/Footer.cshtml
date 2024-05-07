@@ -1,0 +1,17 @@
+﻿@model FooterModel
+
+<footer class="py-16 bg-veryDarkBlue">
+    <div class="container flex flex-col items-center justify-between mx-auto space-y-16 px-6 md:flex-row md:space-y-0">
+
+        <div class="flex flex-col items-center justify-between space-y-8 text-lg font-light md:flex-row md:space-y-0 md:space-x-14 text-grayishBlue">
+            <sc-img asp-for="FooterLogo"></sc-img>
+            @* <img alt="footer" src="/-/media/Project/Sitecore_Internal/sitecore-dev-collection/logo-bookmark-footer.svg?iar=0&amp;hash=6CEB5D4296815E9CF0A6F8A813915220"> *@
+            <a href="/en/Feature" class="tracking-widest hover:text-softRed">Features</a>
+            <a href="/en/Download" class="tracking-widest hover:text-softRed">Download</a>
+            <a href="/en/Faq" class="tracking-widest hover:text-softRed">FAQ</a>
+        </div><div class="flex space-x-10">
+            <a href="http://www.facebook.com" class="undefined"><img src="/-/media/Project/Sitecore_Internal/sitecore-dev-collection/icon-facebook.svg?iar=0&amp;hash=B7E088C99BC3A0CCF159E2630E231E89" alt="" class="[object Object]"></a>
+            <a href="http://www.twitter.com" class="undefined"><img src="/-/media/Project/Sitecore_Internal/sitecore-dev-collection/icon-twitter.svg?iar=0&amp;hash=D89E148D27B29D41C04213FA8EDFE617" alt="" class="[object Object]"></a>
+        </div>
+    </div>
+</footer>

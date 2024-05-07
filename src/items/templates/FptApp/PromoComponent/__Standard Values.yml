@@ -1,0 +1,47 @@
+﻿---
+ID: "9dea0419-a0ec-4a9b-bb39-aeddd5696768"
+Parent: "2bef5f2a-a45e-49cd-b9c7-742509bb9dee"
+Template: "2bef5f2a-a45e-49cd-b9c7-742509bb9dee"
+Path: /sitecore/templates/Project/FptApp/PromoComponent/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240403T225127Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "24dde86d-a334-48c8-8f26-9e8c16f2a498"
+    - ID: "b1ed5d83-3ea9-4b48-b914-cfc1e4ac1a77"
+      Hint: Title
+      Value: A sample title
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cd626bd3-ba8b-46d9-89e5-9d34b661e707"
+      Hint: PromoLink
+      Value: |
+        <link text="Visit this page" anchor="" linktype="internal" class="" title=""  querystring="" id="{06DF0ECB-73D1-4B75-BB12-3BBEA40DB4EF}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240403T225249Z
+    - ID: "e8ac3b8d-8898-4d64-a50b-6f0cd6b57977"
+      Hint: BodyText
+      Value: |
+        <h1 class="text-3xl font-semibold text-center lg:text-6xl lg:text-left" style="color: #000000; margin: 0px; border: 0px solid #e5e7eb; line-height: 1;">A Simple Bookmark Manager - 3 V3</h1>
+        <p class="max-w-md mx-auto text-lg text-center text-gray-400 lg:text-2xl lg:text-left lg:mt-0 lg:mx-0" style="color: rgb(156 163 175 / var(--tw-text-opacity)); margin-top: calc(2.5rem * calc(1 - var(--tw-space-y-reverse))); margin-right: 0px; margin-bottom: calc(2.5rem * var(--tw-space-y-reverse)); margin-left: 0px; border: 0px solid #e5e7eb; line-height: 2rem;">A clean and simple interface to organize your favourite websites. Open a new browser tab and see your sites load instantly. Try it for free.</p>
+    - ID: "f34104ef-2d4e-407c-b7f9-a735b6f69126"
+      Hint: FeaturedImage
+      Value: |
+        <image mediaid="{94219F08-9541-59C1-A92E-4127E6A7CC82}" alt="adsf" height="" width="" hspace="" vspace="" />
